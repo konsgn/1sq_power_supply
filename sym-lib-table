@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name oled)(type Legacy)(uri /media/Kondrive/src/MOD-OLED-128x64/HARDWARE/MOD-OLED-128x64_Rev.A/oled.lib)(options "")(descr ""))
+  (lib (name mod-oled-128x64-cache)(type Legacy)(uri /media/Kondrive/src/MOD-OLED-128x64/HARDWARE/MOD-OLED-128x64_Rev.A/mod-oled-128x64-cache.lib)(options "")(descr ""))
+)
